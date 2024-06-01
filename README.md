@@ -73,8 +73,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [stulujr@cord.edu](mailto:stulujr@cord.edu)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/segnitulu)
 
 ---
 
