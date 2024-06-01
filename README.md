@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: [stulujr@cord.edu](mailto:stulujr@cord.edu)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/segnitulu)
+- **LinkedIn**: [[Your LinkedIn Profile](https://linkedin.com/in/segnitulu)](https://www.linkedin.com/in/segnitulu)
 
 ---
 
