@@ -77,5 +77,3 @@ If you have any questions or suggestions, feel free to reach out:
 - **LinkedIn**: [segnitulu](https://linkedin.com/in/segnitulu)
 
 ---
-
-You can customize this further to better fit your project needs and preferences.
